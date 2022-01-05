@@ -2,6 +2,7 @@ public static class clase1{
 
 	public static void main (String[] args){
 		Systemt.out.println("Hello");
+		Systemt.out.println("Bye");
 	}
 
 }
